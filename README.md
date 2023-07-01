@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # apod_app
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# PROG4-AVAL2
+>>>>>>> 152f04fbd29f295d50f794b38ce5f58c4abc2174
