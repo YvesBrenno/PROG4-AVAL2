@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # apod_app
 
 A new Flutter project.
@@ -18,3 +19,6 @@ samples, guidance on mobile development, and a full API reference.
 =======
 # PROG4-AVAL2
 >>>>>>> 152f04fbd29f295d50f794b38ce5f58c4abc2174
+=======
+# Programacao-4-Avaliacao-2
+>>>>>>> 8c538a7946d58cad03dcf5e09b67a4c6949d4670
